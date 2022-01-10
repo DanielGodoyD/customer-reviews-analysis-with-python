@@ -19,6 +19,4 @@ Herramientas:
 - Google Colab
   
 Resultado:
-https://raw.githubusercontent.com/DanielGodoyD/customer-reviews-analysis-with-python/main/cust%20reviews%20zoom.png
-
 https://github.com/DanielGodoyD/customer-reviews-analysis-with-python/blob/main/cust%20reviews%20zoom.png
