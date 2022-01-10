@@ -18,3 +18,5 @@ Herramientas:
 - Visual Studio Code
 - Google Colab
   
+Resultado:
+https://raw.githubusercontent.com/DanielGodoyD/customer-reviews-analysis-with-python/main/cust%20reviews%20zoom.png
